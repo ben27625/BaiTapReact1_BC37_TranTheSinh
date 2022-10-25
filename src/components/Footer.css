@@ -1,0 +1,18 @@
+.Footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 200px;
+    line-height: center;
+    vertical-align: center;
+    position: relative;
+}
+
+.Footer p {
+    z-index: 100;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+     
+}
